@@ -1,0 +1,7 @@
+obj/
+obj/**
+obj/Debug/
+obj/Debug/net9.0/**
+obj/Debug/net9.0/GraphQLDemo.AssemblyInfoInputs.cache
+obj/Debug/net8.0/**
+obj/Debug/net8.0/
